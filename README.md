@@ -1,6 +1,10 @@
 # Configuration
 MacBookPro Configurations
 
+## Homebrew
+For China network
+`/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"`
+
 ## iTerm2
 Download from [https://www.iterm2.com/index.html]
 
