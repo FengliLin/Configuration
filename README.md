@@ -22,6 +22,7 @@ Download from [https://www.iterm2.com/index.html]
 ### zsh-autosuggestions
 1. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 2. `plugins=(zsh-autosuggestions)`
+3. add `bindkey ',' autosuggest-accept` to ~/.zshrc
 
 ### zsh-syntax-highlighting
 1. `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
